@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/limits"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/samuelbernardolip/gophercloud/acceptance/clients"
+	"github.com/samuelbernardolip/gophercloud/acceptance/tools"
+	"github.com/samuelbernardolip/gophercloud/openstack/compute/v2/extensions/limits"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
 )
 
 func TestLimits(t *testing.T) {

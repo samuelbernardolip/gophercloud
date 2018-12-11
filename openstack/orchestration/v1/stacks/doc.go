@@ -11,9 +11,9 @@ Prepare required import packages
 
 import (
   "fmt"
-  "github.com/gophercloud/gophercloud"
-  "github.com/gophercloud/gophercloud/openstack"
-  "github.com/gophercloud/gophercloud/openstack/orchestration/v1/stacks"
+  "github.com/samuelbernardolip/gophercloud"
+  "github.com/samuelbernardolip/gophercloud/openstack"
+  "github.com/samuelbernardolip/gophercloud/openstack/orchestration/v1/stacks"
 )
 
 Example of Preparing Orchestration client:

@@ -5,10 +5,10 @@ package v3
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/identity/v3/regions"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/samuelbernardolip/gophercloud/acceptance/clients"
+	"github.com/samuelbernardolip/gophercloud/acceptance/tools"
+	"github.com/samuelbernardolip/gophercloud/openstack/identity/v3/regions"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
 )
 
 func TestRegionsList(t *testing.T) {

@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gophercloud/gophercloud/openstack/keymanager/v1/containers"
-	th "github.com/gophercloud/gophercloud/testhelper"
-	"github.com/gophercloud/gophercloud/testhelper/client"
+	"github.com/samuelbernardolip/gophercloud/openstack/keymanager/v1/containers"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
+	"github.com/samuelbernardolip/gophercloud/testhelper/client"
 )
 
 // ListResponse provides a single page of container results.

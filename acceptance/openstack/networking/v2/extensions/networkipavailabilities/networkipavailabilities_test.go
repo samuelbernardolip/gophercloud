@@ -5,10 +5,10 @@ package networkipavailabilities
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/networking/v2/extensions/networkipavailabilities"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/samuelbernardolip/gophercloud/acceptance/clients"
+	"github.com/samuelbernardolip/gophercloud/acceptance/tools"
+	"github.com/samuelbernardolip/gophercloud/openstack/networking/v2/extensions/networkipavailabilities"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
 )
 
 func TestNetworkIPAvailabilityList(t *testing.T) {

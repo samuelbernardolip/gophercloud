@@ -1,7 +1,7 @@
 package certificates
 
 import (
-	"github.com/gophercloud/gophercloud"
+	"github.com/samuelbernardolip/gophercloud"
 )
 
 var apiName = "certificates"

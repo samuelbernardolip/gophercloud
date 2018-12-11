@@ -1,6 +1,6 @@
 package ruletypes
 
-import "github.com/gophercloud/gophercloud/pagination"
+import "github.com/samuelbernardolip/gophercloud/pagination"
 
 // The result of listing the qos rule types
 type RuleType struct {

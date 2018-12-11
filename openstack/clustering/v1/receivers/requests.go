@@ -3,8 +3,8 @@ package receivers
 import (
 	"net/http"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/pagination"
 )
 
 // ReceiverType represents a valid type of receiver

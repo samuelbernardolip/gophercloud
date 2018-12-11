@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fake "github.com/gophercloud/gophercloud/testhelper/client"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
+	fake "github.com/samuelbernardolip/gophercloud/testhelper/client"
 )
 
 const rootPath = "/os-security-group-default-rules"

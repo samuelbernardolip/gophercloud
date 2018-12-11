@@ -3,8 +3,8 @@ package aggregates
 import (
 	"strconv"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/pagination"
 )
 
 // List makes a request against the API to list aggregates.

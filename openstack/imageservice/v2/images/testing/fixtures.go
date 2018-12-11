@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	th "github.com/gophercloud/gophercloud/testhelper"
-	fakeclient "github.com/gophercloud/gophercloud/testhelper/client"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
+	fakeclient "github.com/samuelbernardolip/gophercloud/testhelper/client"
 )
 
 type imageEntry struct {

@@ -5,13 +5,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/l7policies"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/listeners"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/loadbalancers"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/monitors"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/pools"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/acceptance/tools"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/l7policies"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/listeners"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/loadbalancers"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/monitors"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/pools"
 )
 
 const loadbalancerActiveTimeoutSeconds = 300

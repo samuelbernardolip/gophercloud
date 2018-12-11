@@ -1,6 +1,6 @@
 package routers
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/samuelbernardolip/gophercloud"
 
 const resourcePath = "routers"
 

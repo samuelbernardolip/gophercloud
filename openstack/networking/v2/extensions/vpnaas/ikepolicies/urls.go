@@ -1,6 +1,6 @@
 package ikepolicies
 
-import "github.com/gophercloud/gophercloud"
+import "github.com/samuelbernardolip/gophercloud"
 
 const (
 	rootPath     = "vpn"

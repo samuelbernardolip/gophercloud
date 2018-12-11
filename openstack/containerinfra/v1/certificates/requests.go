@@ -3,7 +3,7 @@ package certificates
 import (
 	"net/http"
 
-	"github.com/gophercloud/gophercloud"
+	"github.com/samuelbernardolip/gophercloud"
 )
 
 // CreateOptsBuilder allows extensions to add additional parameters

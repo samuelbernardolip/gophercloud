@@ -3,9 +3,9 @@ package regions
 import (
 	"encoding/json"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/internal"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/internal"
+	"github.com/samuelbernardolip/gophercloud/pagination"
 )
 
 // Region helps manage related users.

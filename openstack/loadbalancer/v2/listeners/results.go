@@ -1,9 +1,9 @@
 package listeners
 
 import (
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/openstack/loadbalancer/v2/pools"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/openstack/loadbalancer/v2/pools"
+	"github.com/samuelbernardolip/gophercloud/pagination"
 )
 
 type LoadBalancerID struct {

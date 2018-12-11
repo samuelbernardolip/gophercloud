@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/gophercloud/gophercloud"
-	"github.com/gophercloud/gophercloud/pagination"
+	"github.com/samuelbernardolip/gophercloud"
+	"github.com/samuelbernardolip/gophercloud/pagination"
 )
 
 // CreateOptsBuilder allows extension to add additional parameters to the Create request.

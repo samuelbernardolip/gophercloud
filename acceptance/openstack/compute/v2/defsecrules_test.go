@@ -5,10 +5,10 @@ package v2
 import (
 	"testing"
 
-	"github.com/gophercloud/gophercloud/acceptance/clients"
-	"github.com/gophercloud/gophercloud/acceptance/tools"
-	dsr "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/defsecrules"
-	th "github.com/gophercloud/gophercloud/testhelper"
+	"github.com/samuelbernardolip/gophercloud/acceptance/clients"
+	"github.com/samuelbernardolip/gophercloud/acceptance/tools"
+	dsr "github.com/samuelbernardolip/gophercloud/openstack/compute/v2/extensions/defsecrules"
+	th "github.com/samuelbernardolip/gophercloud/testhelper"
 )
 
 func TestDefSecRulesList(t *testing.T) {
